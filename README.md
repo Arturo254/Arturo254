@@ -8,7 +8,13 @@
   <img src="https://i.ibb.co/dkdvHHC/yolo-default.png" width="50" />
   <img src="https://i.ibb.co/xYmhWYd/heart-on-your-sleeve-default.png" width="50" />
   <img 
+# 
+#  
+# 
+# 
+#       
 
+       
 # ABOUT ME 
 JUST ONE MORE PASSIONATE ABOUT COMPUTER SCIENCE AND PROGRAMMING. 
        
