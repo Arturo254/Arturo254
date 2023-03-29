@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+# ACHIEVEMENTS
+
+
+<img src="https://i.ibb.co/rGf1nZK/arctic-code-vault-contributor-default.png" alt="xd" style="width: 50px;">
+
 <!--
 **Arturo254/Arturo254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
