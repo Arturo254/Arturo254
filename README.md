@@ -1,22 +1,13 @@
-### Hi there 👋
-
+### HI THERE
 
 # ACHIEVEMENTS
-
-
-<img src="https://i.ibb.co/rGf1nZK/arctic-code-vault-contributor-default.png" alt="xd" style="width: 50px;">
-
-<!--
-**Arturo254/Arturo254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://i.ibb.co/rGf1nZK/arctic-code-vault-contributor-default.png" width="50" />
+  <img src="https://i.ibb.co/cDcgymt/pull-shark-default.png" width="50" />
+  <img src="https://i.ibb.co/dkdvHHC/yolo-default.png" width="50" />
+  <img src="https://i.ibb.co/xYmhWYd/heart-on-your-sleeve-default.png" width="50" />
+  <img src="https://i.ibb.co/80Csj7B/pair-extraordinaire-default.png" width="50" />
+  <img src="https://i.ibb.co/zsft2jz/quickdraw-default.png" width="50" />
+  <img src="https://i.ibb.co/fkCW3vM/galaxy-brain-default.png" width="50" />
+  <img src="https://i.ibb.co/4FMppDb/open-sourcerer-default.png" width="50" />
+</p>
