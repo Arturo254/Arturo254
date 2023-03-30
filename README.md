@@ -1,6 +1,7 @@
 # HI TERE 
 
-#
+# 
+[![Check out Arturo254's profile on stardev.io](https://stardev.io/developers/Arturo254/badge/languages/global.svg)](https://stardev.io/developers/Arturo254) 
 
 ### ACHIEVEMENTS
 <p align="center">
