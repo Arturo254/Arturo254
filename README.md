@@ -1,4 +1,38 @@
 # HI TERE 
+  
+
+<p align="center"><img  src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif"  alt="Bt">
+
+  
+
+
+
+
+<p align="center"><a  href="https://github.com/Arturo254"><img  title="Arturo254"  src="https://github-readme-stats.vercel.app/api?username=Arturo254&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+</p>
+
+ <br> 
+<p align="center">
+
+<a  href="https://github.com/Arturo254/Basic-Tools"><img  title="Basic-Tools"  src="https://github-readme-stats.vercel.app/api/pin/?username=Arturo254&repo=Basic-Tools&theme=radical"></a>
+
+<a  href="https://github.com/noob-hackers/mrphish"><img  title="mrphish"  src="https://github-readme-stats.vercel.app/api/pin/?username=Arturo254&repo=cyberphish&theme=highcontrast"></a>
+
+<a  href="https://github.com/Arturo254/Python-Server"><img  title="Python-Server"  src="https://github-readme-stats.vercel.app/api/pin/?username=Arturo254&repo=Python-Server&theme=vision-friendly-dark"></a>
+
+<a  href="https://github.com/Arturo254/Shorten-Url"><img  title="Shorten-Url"  src="https://github-readme-stats.vercel.app/api/pin/?username=Arturo254&repo=Shorten-Url&theme=highcontrast"></a>
+
+</p>
+
+  
+
+<p align="center">
+
+<a  href="https://github.com/noob-hackers"><img  title="Arturo254"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arturo254&layout=compact"></a>
+
+</p>
+
+
 
 # 
 [![Check out Arturo254's profile on stardev.io](https://stardev.io/developers/Arturo254/badge/languages/global.svg)](https://stardev.io/developers/Arturo254) 
