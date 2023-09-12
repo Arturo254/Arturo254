@@ -1,3 +1,14 @@
+### ACHIEVEMENTS
+<p align="center">
+ <img  src="https://i.ibb.co/rGf1nZK/arctic-code-vault-contributor-default.png" width="50" />
+
+  <img src="https://i.ibb.co/cDcgymt/pull-shark-default.png" width="50" />
+  <img src="https://i.ibb.co/dkdvHHC/yolo-default.png" width="50" />
+  <img src="https://i.ibb.co/xYmhWYd/heart-on-your-sleeve-default.png" width="50" />
+ 
+
+
+
 # HI TERE 
   ![](https://komarev.com/ghpvc/?username=Arturo254)
 
@@ -37,14 +48,6 @@
 # 
 [![Check out Arturo254's profile on stardev.io](https://stardev.io/developers/Arturo254/badge/languages/global.svg)](https://stardev.io/developers/Arturo254) 
 
-### ACHIEVEMENTS
-<p align="center">
- <img  src="https://i.ibb.co/rGf1nZK/arctic-code-vault-contributor-default.png" width="50" />
-
-  <img src="https://i.ibb.co/cDcgymt/pull-shark-default.png" width="50" />
-  <img src="https://i.ibb.co/dkdvHHC/yolo-default.png" width="50" />
-  <img src="https://i.ibb.co/xYmhWYd/heart-on-your-sleeve-default.png" width="50" />
- 
 
 # 
 #      SOCIAL ACHIEVEMENTS (freecodecamp)
