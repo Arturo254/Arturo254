@@ -47,8 +47,11 @@
  
 
 # 
-#      SOCIAL ACHIEVEMENTS 
-<img src="https://i.ibb.co/2hLFNv1/img2023213205523.png" alt="img2023213205523" border="0">
+#      SOCIAL ACHIEVEMENTS (freecodecamp)
+![3](https://github.com/Arturo254/Arturo254/assets/87346871/4dec1519-b0a2-4f18-bbad-6869075bb39b)
+![2](https://github.com/Arturo254/Arturo254/assets/87346871/e1bb512e-a343-4e34-afb0-baee7aa0fcac)
+![1](https://github.com/Arturo254/Arturo254/assets/87346871/0608fc49-5e52-418e-92b6-3de152053f99)
+
  
 # ABOUT ME 
 JUST ONE MORE PASSIONATE ABOUT COMPUTER SCIENCE AND PROGRAMMING. 
