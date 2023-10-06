@@ -57,6 +57,9 @@
 ![2](https://github.com/Arturo254/Arturo254/assets/87346871/e1bb512e-a343-4e34-afb0-baee7aa0fcac)
 ![1](https://github.com/Arturo254/Arturo254/assets/87346871/0608fc49-5e52-418e-92b6-3de152053f99)
 
+![IMG_20231004_175426_738](https://github.com/Arturo254/Arturo254/assets/87346871/74e55ee4-1fc5-48f3-9a53-55b82edcb1c1)
+
+
  
 # ABOUT ME 
 JUST ONE MORE PASSIONATE ABOUT COMPUTER SCIENCE AND PROGRAMMING. 
