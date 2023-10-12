@@ -41,7 +41,7 @@
 
 <p align="center">
 
-<a  href="https://github.com/noob-hackers"><img  title="Arturo254"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arturo254&layout=compact"></a>
+<a  href="https://github.com/Arturo254"><img  title="Arturo254"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arturo254&layout=compact"></a>
 
 </p>
 
