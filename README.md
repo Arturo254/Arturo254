@@ -14,6 +14,8 @@
   ![](https://komarev.com/ghpvc/?username=Arturo254)
   ![](https://github-readme-streak-stats.herokuapp.com/?Arturo254)
 
+![1000080452](https://github.com/Arturo254/Arturo254/assets/87346871/144436a9-859c-4c6b-aa4d-d60f5ead0e13)
+
 <p align="center"><img  src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif"  alt="Bt">
 
   
