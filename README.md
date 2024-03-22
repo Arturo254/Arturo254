@@ -14,7 +14,7 @@
 
 
 
-#  <p align="center">HI TERE </p>
+#  <p align="center">HI THERE </p>
 
   ![](https://komarev.com/ghpvc/?username=adityakumar28&color=447ff7&label=Visitor+count)
   ![](https://github-readme-streak-stats.herokuapp.com/?Arturo254)
