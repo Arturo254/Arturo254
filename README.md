@@ -36,6 +36,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
+
+
 ###
 
 ## 🏆 GitHub Trophies
@@ -45,7 +47,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Arturo254&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Arturo254&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Arturo254&label=Profile%20Views&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 ###
 
