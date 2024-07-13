@@ -39,6 +39,7 @@
 
 
 ###
+<p align="center">
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Arturo254&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -49,26 +50,17 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Arturo254&label=Profile%20Views&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
+</p>
+
 ###
 
 
 
 
  <br> 
-<p align="center">
-
-<a  href="https://github.com/Arturo254/Basic-Tools"><img  title="Basic-Tools"  src="https://github-readme-stats.vercel.app/api/pin/?username=Arturo254&repo=Basic-Tools&theme=radical"></a>
-
-<a align="center" href="https://github.com/noob-hackers/mrphish"><img  title="mrphish"  src="https://github-readme-stats.vercel.app/api/pin/?username=Arturo254&repo=cyberphish&theme=highcontrast"></a>
-
-<a  href="https://github.com/Arturo254/Python-Server"><img  title="Python-Server"  src="https://github-readme-stats.vercel.app/api/pin/?username=Arturo254&repo=Python-Server&theme=vision-friendly-dark"></a>
-
-<a  href="https://github.com/Arturo254/Shorten-Url"><img  title="Shorten-Url"  src="https://github-readme-stats.vercel.app/api/pin/?username=Arturo254&repo=Shorten-Url&theme=highcontrast"></a>
-
-</p>
 
 
-[![Check out Arturo254's profile on stardev.io](https://stardev.io/developers/Arturo254/badge/languages/global.svg)](https://stardev.io/developers/Arturo254) 
+[![Check out Arturo254's profile on stardev.io](https://stardev.io/developers/Arturo254/badge/languages/global.svg)](https://stardev.io/developers/Arturo254)
 
 
 <br clear="both">
