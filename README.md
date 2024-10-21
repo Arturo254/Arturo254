@@ -93,6 +93,10 @@
 
 ![linux](https://github.com/Arturo254/Arturo254/assets/87346871/0204b86a-14cf-4a12-b108-5fae030d2e14)
 
+![diploma-1](https://github.com/user-attachments/assets/85c65f69-3766-434e-8579-2a6dd9a8e270)
+
+![diploma html-1](https://github.com/user-attachments/assets/3ced490e-8ddb-4bce-8d04-893df2e5e84f)
+
 
 
 
