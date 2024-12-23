@@ -4,8 +4,8 @@
   <img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Welcome Banner" width="500px">
 </div>
 
-## 👨‍💻 Sobre mí
-Soy un desarrollador apasionado por la tecnología y el código abierto. Me enfoco en crear soluciones innovadoras y compartir conocimiento con la comunidad.
+## 👨‍💻 Sobre mí  
+Soy un desarrollador de 18 años apasionado por la tecnología, el código abierto y la innovación. Me especializo en el desarrollo de aplicaciones web y Android, utilizando Kotlin y Jetpack Compose como mis principales herramientas..
 
 <div align="center">
 
@@ -46,8 +46,8 @@ Soy un desarrollador apasionado por la tecnología y el código abierto. Me enfo
 ## 📈 Contribuciones
 
 <div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arturo254&theme=radical)](https://github.com/Arturo254)
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Arturo254&theme=transparent&hide_border=true&border_radius=30&locale=es&short_numbers=true)](https://git.io/streak-stats)
 
 </div>
 
