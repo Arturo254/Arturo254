@@ -5,7 +5,7 @@
 </div>
 
 ## Sobre mí  
-Desarrollador de 18 años especializado en aplicaciones web y Android, con enfoque en Kotlin y Jetpack Compose. Comprometido con el código abierto y la innovación tecnológica.
+Desarrollador de 20 años especializado en aplicaciones web y Android, con enfoque en Kotlin y Jetpack Compose. Comprometido con el código abierto y la innovación tecnológica.
 
 <div align="center">
 
